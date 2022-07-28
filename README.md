@@ -1,2 +1,2 @@
 # learning-git
-this repo was used to learn from amigoscode
+this repo was used to learn from Amigoscode
